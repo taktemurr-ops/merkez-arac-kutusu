@@ -18,7 +18,7 @@ dependencies:
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: ecc907063bac62549859e10b9bba4bf7d949d712
+      ref: 86f6938887a0f14290f7497eb5275a3e164f087d
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_hesap_makinesi:
     git:
@@ -263,19 +263,19 @@ dependencies:
   uyg_ton_ureteci:
     git:
       url: https://github.com/taktemurr-ops/uyg-ton-ureteci
-      ref: main
+      ref: b8280adc5b5e23437f3d738c862264b3d6f66771
   uyg_nfc_okuyucu:
     git:
       url: https://github.com/taktemurr-ops/uyg-nfc-okuyucu
-      ref: main
+      ref: 2e2a70ec913371871ed765d595f7b294fdc15fc1
   uyg_ag_bilgisi:
     git:
       url: https://github.com/taktemurr-ops/uyg-ag-bilgisi
-      ref: main
+      ref: b29cf5f0129f8d84016ec9a7945f2edea9ac29bc
   uyg_goz_koruma_filtresi:
     git:
       url: https://github.com/taktemurr-ops/uyg-goz-koruma-filtresi
-      ref: main
+      ref: 83e3bfbdcf74b55f4892f29e0a80bc05077ac339
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -293,7 +293,7 @@ dependency_overrides:
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: ecc907063bac62549859e10b9bba4bf7d949d712
+      ref: 86f6938887a0f14290f7497eb5275a3e164f087d
 
 dev_dependencies:
   flutter_test:
