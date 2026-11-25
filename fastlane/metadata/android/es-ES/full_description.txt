@@ -1,0 +1,12 @@
+60 herramientas sencillas y sin conexión para el día a día.
+
+• Calculadoras: Calculadora, Calculadora científica, Conversor de números romanos, Conversor de bases numéricas, Calculadora de porcentajes y fracciones, Resolvedor de ecuaciones, Calculadora gráfica, Matrices y estadística
+• Conversores: Conversor de unidades, Conversor de calendario (Hégira, Rumi), Edad y diferencia de fechas, Calculadora eléctrica (Ohm), Calculadora de pintura y azulejos, Conversor de medidas de cocina, Tallas de ropa y calzado, Calculadora de neumáticos, Calculadora de consumo de combustible
+• Dinero y trabajo: Conversor de divisas, Calculadora de promedio, Calculadora de salario neto-bruto, Indemnización y preaviso
+• Tiempo: Cronómetro, Temporizador, Despertador, Reloj mundial, Cuenta atrás, Reloj de mesa nocturno
+• Azar y contadores: Dados, moneda y número, Ruleta de decisiones, Contador, Marcador, Selector de nombres y equipos
+• Sensores y medición: Brújula, Nivel de burbuja, Regla y medición, Velocímetro GPS, Altímetro, Barómetro, Medidor de vibración, Detector de metales, Medidor de ángulos
+• Cámara y luz: Linterna, Lector QR y de códigos, Lupa, Espejo, Luxómetro, Medidor de distancia y altura, Selector de color con cámara, Luz SOS y emergencia
+• Sonido y música: Sonómetro (dB), Metrónomo, Afinador, Limpiador de altavoz
+• Dispositivo: Gestor de archivos, Batería e info del dispositivo, Prueba de pantalla y píxeles, Prueba táctil y de botones
+• Texto y códigos: Generador de QR, Código Morse, Generador de contraseñas

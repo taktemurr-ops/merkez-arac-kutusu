@@ -1,0 +1,12 @@
+60 ferramentas simples e offline para o dia a dia.
+
+• Calculadoras: Calculadora, Calculadora científica, Conversor de números romanos, Conversor de bases numéricas, Calculadora de porcentagem e frações, Resolvedor de equações, Calculadora gráfica, Matrizes e estatística
+• Conversores: Conversor de unidades, Conversor de calendário (Hégira, Rumi), Idade e diferença de datas, Calculadora elétrica (Ohm), Calculadora de tinta e piso, Conversor de medidas de cozinha, Tamanhos de roupa e calçado, Calculadora de pneus, Calculadora de consumo de combustível
+• Dinheiro e trabalho: Conversor de moedas, Calculadora de média, Calculadora de salário líquido-bruto, Indenização e aviso prévio
+• Tempo: Cronômetro, Temporizador, Despertador, Relógio mundial, Contagem regressiva, Relógio noturno de mesa
+• Aleatório e contadores: Dados, moeda e número, Roda de decisões, Contador, Placar, Sorteio de nomes e equipes
+• Sensores e medição: Bússola, Nível de bolha, Régua e medição, Velocímetro GPS, Altímetro, Barômetro, Medidor de vibração, Detector de metais, Medidor de ângulo
+• Câmera e luz: Lanterna, Leitor de QR e código de barras, Lupa, Espelho, Luxímetro, Medidor de distância e altura, Seletor de cores pela câmera, Luz SOS e emergência
+• Som e música: Medidor de som (dB), Metrônomo, Afinador, Limpador de alto-falante
+• Dispositivo: Gerenciador de arquivos, Bateria e dispositivo, Teste de tela e pixels mortos, Teste de toque e botões
+• Texto e códigos: Gerador de QR, Código Morse, Gerador de senhas
