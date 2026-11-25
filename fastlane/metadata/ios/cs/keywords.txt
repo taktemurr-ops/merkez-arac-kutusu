@@ -1,0 +1,1 @@
+kalkulačka,vědecká,římské,číslice,převodník,číselných,soustav,procenta,zlomky,řešič,rovnic,grafická

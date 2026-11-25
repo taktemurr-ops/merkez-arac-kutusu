@@ -1,0 +1,12 @@
+60 outils simples et hors ligne pour le quotidien.
+
+• Calculatrices: Calculatrice, Calculatrice scientifique, Convertisseur de chiffres romains, Convertisseur de bases, Calcul de pourcentages et fractions, Solveur d'équations, Calculatrice graphique, Matrices et statistiques
+• Convertisseurs: Convertisseur d'unités, Convertisseur de calendrier (Hégire, Rumi), Âge et écart de dates, Calculateur électrique (Ohm), Calcul peinture et carrelage, Convertisseur de mesures de cuisine, Tailles de vêtements et pointures, Calculateur de taille de pneus, Calcul de consommation de carburant
+• Argent et travail: Convertisseur de devises, Calcul de moyenne, Calcul salaire net-brut, Indemnité de départ et de préavis
+• Temps: Chronomètre, Minuteur, Réveil, Horloge mondiale, Compte à rebours, Horloge de nuit et de bureau
+• Hasard et compteurs: Dés, pile ou face, nombre, Roue des décisions, Compteur, Compteur de points, Tirage de noms et d'équipes
+• Capteurs et mesure: Boussole, Niveau à bulle, Règle et mesure, Compteur de vitesse GPS, Altimètre, Baromètre, Vibromètre, Détecteur de métaux, Rapporteur
+• Caméra et lumière: Lampe torche, Lecteur QR et code-barres, Loupe, Miroir, Luxmètre, Mesure de distance et hauteur, Pipette couleur caméra, Lumière SOS et urgence
+• Son et musique: Sonomètre (dB), Métronome, Accordeur, Nettoyeur de haut-parleur
+• Appareil: Gestionnaire de fichiers, Batterie et infos appareil, Test d'écran et pixels morts, Test tactile et boutons
+• Texte et codes: Générateur de QR, Code Morse, Générateur de mots de passe

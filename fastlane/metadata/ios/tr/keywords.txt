@@ -1,0 +1,1 @@
+hesap,makinesi,bilimsel,roma,rakamı,çevirici,sayı,tabanı,yüzde,kesir,hesaplayıcı,denklem,çözücü,rumi

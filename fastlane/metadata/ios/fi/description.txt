@@ -1,0 +1,12 @@
+60 rauhallista offline-työkalua arkeen.
+
+• Laskimet: Laskin, Funktiolaskin, Roomalaiset numerot, Lukujärjestelmämuunnin, Prosentti- ja murtolukulaskin, Yhtälönratkaisija, Graafinen laskin, Matriisit ja tilastot
+• Muuntimet: Yksikkömuunnin, Kalenterimuunnin (hidžra, rumi), Ikä ja päivien erotus, Sähkölaskin (Ohm), Maali- ja laattalaskuri, Keittiömittojen muunnin, Vaate- ja kenkäkoot, Rengaskokolaskuri, Polttoaineenkulutus
+• Raha ja työ: Valuuttamuunnin, Keskiarvolaskuri, Netto-bruttopalkka, Erorahat ja irtisanomisaika
+• Aika: Sekuntikello, Ajastin, Herätyskello, Maailmankello, Lähtölaskenta, Yö- ja pöytäkello
+• Satunnaisuus ja laskurit: Noppa, kolikko, luku, Päätöspyörä, Laskuri, Pistelaskuri, Satunnaiset nimet ja joukkueet
+• Anturit ja mittaus: Kompassi, Vesivaaka, Viivain ja mittaus, GPS-nopeusmittari, Korkeusmittari, Ilmanpainemittari, Tärinämittari, Metallinpaljastin, Kulmamittari
+• Kamera ja valo: Taskulamppu, QR- ja viivakoodinlukija, Suurennuslasi, Peili, Valomittari (lux), Etäisyys- ja korkeusmittari, Kameran värivalitsin, SOS-valo ja hätätilanne
+• Ääni ja musiikki: Äänimittari (dB), Metronomi, Viritin, Kaiuttimen puhdistus
+• Laite: Tiedostonhallinta, Akku ja laite, Näyttö- ja pikselitesti, Kosketus- ja näppäintesti
+• Teksti ja koodit: QR-generaattori, Morseaakkoset, Salasanageneraattori

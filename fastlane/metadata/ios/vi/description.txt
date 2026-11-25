@@ -1,0 +1,12 @@
+60 công cụ gọn nhẹ, ngoại tuyến cho mỗi ngày.
+
+• Máy tính: Máy tính, Máy tính khoa học, Đổi số La Mã, Đổi hệ cơ số, Tính phần trăm và phân số, Giải phương trình, Máy tính vẽ đồ thị, Ma trận và thống kê
+• Chuyển đổi: Đổi đơn vị, Đổi lịch (Hijri, Rumi), Tuổi và khoảng cách ngày, Tính điện (Ohm), Tính sơn và gạch, Đổi đơn vị nấu ăn, Cỡ quần áo và giày, Tính cỡ lốp, Tính mức tiêu thụ nhiên liệu
+• Tiền và công việc: Đổi tiền tệ, Tính điểm trung bình, Tính lương net-gross, Trợ cấp thôi việc và báo trước
+• Thời gian: Đồng hồ bấm giờ, Hẹn giờ, Đồng hồ báo thức, Giờ thế giới, Đếm ngược, Đồng hồ đêm và để bàn
+• Ngẫu nhiên và bộ đếm: Xúc xắc, tung đồng xu, số, Vòng quay quyết định, Bộ đếm, Ghi điểm, Chọn tên và chia đội ngẫu nhiên
+• Cảm biến và đo: La bàn, Thước thủy, Thước kẻ và đo, Đồng hồ tốc độ GPS, Đo độ cao, Khí áp kế, Đo độ rung, Máy dò kim loại, Thước đo góc
+• Camera và ánh sáng: Đèn pin, Quét QR và mã vạch, Kính lúp, Gương, Đo ánh sáng (lux), Đo khoảng cách và chiều cao, Chọn màu bằng camera, Đèn SOS và khẩn cấp
+• Âm thanh và âm nhạc: Đo âm thanh (dB), Máy đếm nhịp, Máy lên dây, Làm sạch loa
+• Thiết bị: Quản lý tệp, Pin và thông tin máy, Kiểm tra màn hình và điểm chết, Kiểm tra cảm ứng và nút
+• Văn bản và mã: Tạo mã QR, Mã Morse, Tạo mật khẩu

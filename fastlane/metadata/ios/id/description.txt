@@ -1,0 +1,12 @@
+60 alat sederhana dan offline untuk sehari-hari.
+
+• Kalkulator: Kalkulator, Kalkulator ilmiah, Konversi angka Romawi, Konversi basis bilangan, Kalkulator persen & pecahan, Pemecah persamaan, Kalkulator grafik, Matriks & statistik
+• Konverter: Konversi satuan, Konversi kalender (Hijriah, Rumi), Usia & selisih tanggal, Kalkulator listrik (Ohm), Kalkulator cat & ubin, Konversi takaran dapur, Ukuran baju & sepatu, Kalkulator ukuran ban, Kalkulator konsumsi BBM
+• Uang & kerja: Konversi mata uang, Kalkulator IPK, Kalkulator gaji bersih-kotor, Pesangon & uang pemberitahuan
+• Waktu: Stopwatch, Pengatur waktu, Jam alarm, Jam dunia, Hitung mundur, Jam malam & meja
+• Acak & penghitung: Dadu, koin, angka, Roda keputusan, Penghitung, Pencatat skor, Pemilih nama & tim acak
+• Sensor & ukur: Kompas, Waterpass, Penggaris & ukur, Speedometer GPS, Altimeter, Barometer, Pengukur getaran, Detektor logam, Pengukur sudut
+• Kamera & cahaya: Senter, Pemindai QR & barcode, Kaca pembesar, Cermin, Pengukur cahaya (lux), Pengukur jarak & tinggi, Pemilih warna kamera, Lampu SOS & darurat
+• Suara & musik: Pengukur suara (dB), Metronom, Penyetem alat musik, Pembersih speaker
+• Perangkat: Pengelola file, Baterai & info perangkat, Tes layar & piksel mati, Tes sentuh & tombol
+• Teks & kode: Pembuat QR, Kode Morse, Pembuat kata sandi

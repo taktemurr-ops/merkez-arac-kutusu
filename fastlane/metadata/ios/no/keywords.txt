@@ -1,0 +1,1 @@
+kalkulator,vitenskapelig,romertall,tallsystemomregner,prosent,brøkkalkulator,likningsløser,matriser

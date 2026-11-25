@@ -1,0 +1,12 @@
+60 unelte simple, offline, pentru fiecare zi.
+
+• Calculatoare: Calculator, Calculator științific, Convertor cifre romane, Convertor baze numerice, Calculator procente și fracții, Rezolvitor de ecuații, Calculator grafic, Matrice și statistică
+• Convertoare: Convertor de unități, Convertor calendar (hegira, rumi), Vârstă și diferență de date, Calculator electric (Ohm), Calculator vopsea și gresie, Convertor de măsuri culinare, Mărimi haine și pantofi, Calculator dimensiune anvelope, Calculator consum combustibil
+• Bani și muncă: Convertor valutar, Calculator medie, Calculator salariu net-brut, Indemnizație și preaviz
+• Timp: Cronometru, Cronometru invers, Ceas cu alarmă, Ceas mondial, Numărătoare inversă, Ceas de noapte și birou
+• Aleatoriu și contoare: Zaruri, monedă, număr, Roata deciziilor, Contor, Tabelă de scor, Selector aleatoriu de nume și echipe
+• Senzori și măsurare: Busolă, Nivelă, Riglă și măsurare, Vitezometru GPS, Altimetru, Barometru, Vibrometru, Detector de metale, Raportor
+• Cameră și lumină: Lanternă, Scanner QR și coduri de bare, Lupă, Oglindă, Luxmetru, Măsurare distanță și înălțime, Selector de culori cu camera, Lumină SOS și urgență
+• Sunet și muzică: Sonometru (dB), Metronom, Acordor, Curățare difuzor
+• Dispozitiv: Manager de fișiere, Baterie și dispozitiv, Test ecran și pixeli morți, Test tactil și butoane
+• Text și coduri: Generator QR, Codul Morse, Generator de parole

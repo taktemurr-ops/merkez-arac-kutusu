@@ -1,0 +1,1 @@
+laskin,funktiolaskin,roomalaiset,numerot,lukujärjestelmämuunnin,prosentti,murtolukulaskin,graafinen

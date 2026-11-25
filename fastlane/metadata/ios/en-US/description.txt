@@ -1,0 +1,12 @@
+60 calm, offline tools for everyday jobs.
+
+• Calculators: Calculator, Scientific Calculator, Roman Numeral Converter, Number Base Converter, Percent & Fraction Calculator, Equation Solver, Graphing Calculator, Matrix & Statistics
+• Converters: Unit Converter, Calendar Converter (Hijri, Rumi), Age & Date Difference, Electrical Calculator (Ohm), Paint & Tile Calculator, Kitchen Measure Converter, Clothing & Shoe Sizes, Tire Size Calculator, Fuel Consumption Calculator
+• Money & Work: Currency Converter, GPA Calculator, Net-Gross Salary Calculator, Severance & Notice Pay
+• Time: Stopwatch, Timer, Alarm Clock, World Clock, Countdown, Night & Desk Clock
+• Random & Counters: Dice, Coin & Number, Decision Wheel, Tally Counter, Score Keeper, Random Name & Team Picker
+• Sensors & Measure: Compass, Spirit Level, Ruler & Measure, GPS Speedometer, Altimeter, Barometer, Vibration Meter, Metal Detector, Angle Meter
+• Camera & Light: Flashlight, QR & Barcode Scanner, Magnifier, Mirror, Light Meter (lux), Distance & Height Meter, Camera Color Picker, SOS Light & Emergency
+• Sound & Music: Sound Meter (dB), Metronome, Instrument Tuner, Speaker Cleaner
+• Device: File Manager, Battery & Device Info, Screen & Dead Pixel Test, Touch & Button Test
+• Text & Codes: QR Generator, Morse Code, Password Generator

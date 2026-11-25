@@ -1,0 +1,1 @@
+calculatrice,scientifique,convertisseur,chiffres,romains,bases,calcul,pourcentages,fractions,solveur
