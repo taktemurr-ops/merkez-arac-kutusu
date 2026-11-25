@@ -1,5 +1,5 @@
 name: merkez_arac_kutusu
-description: "Araç Kutusu merkez uygulaması: 60 çevrimdışı araç. Android, iOS ve Web."
+description: "Araç Kutusu merkez uygulaması: 64 çevrimdışı araç. Android, iOS ve Web."
 publish_to: none
 version: 1.0.0+1
 
@@ -260,6 +260,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-sos-feneri-ve-acil-durum
       ref: 86324784f3f7f08a539fa21687ab3db245283c1d
+  uyg_ton_ureteci:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ton-ureteci
+      ref: main
+  uyg_nfc_okuyucu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-nfc-okuyucu
+      ref: main
+  uyg_ag_bilgisi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-ag-bilgisi
+      ref: main
+  uyg_goz_koruma_filtresi:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-goz-koruma-filtresi
+      ref: main
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

@@ -70,12 +70,15 @@ def android():
         for perm in ("android.permission.CAMERA", "android.permission.RECORD_AUDIO",
                      "android.permission.ACCESS_FINE_LOCATION", "android.permission.ACCESS_COARSE_LOCATION",
                      "android.permission.POST_NOTIFICATIONS", "android.permission.SCHEDULE_EXACT_ALARM",
-                     "android.permission.RECEIVE_BOOT_COMPLETED", "android.permission.VIBRATE"):
+                     "android.permission.RECEIVE_BOOT_COMPLETED", "android.permission.VIBRATE",
+                     "android.permission.NFC", "android.permission.ACCESS_WIFI_STATE",
+                     "android.permission.ACCESS_NETWORK_STATE"):
             if perm not in s:
                 s = s.replace("<application", '<uses-permission android:name="%s"/>\n    <application' % perm, 1)
         for feat in ("android.hardware.camera", "android.hardware.camera.flash", "android.hardware.microphone",
                      "android.hardware.location.gps", "android.hardware.sensor.compass",
-                     "android.hardware.sensor.barometer", "android.hardware.sensor.accelerometer"):
+                     "android.hardware.sensor.barometer", "android.hardware.sensor.accelerometer",
+                     "android.hardware.nfc", "android.hardware.wifi"):
             if feat not in s:
                 s = s.replace("<application", '<uses-feature android:name="%s" android:required="false"/>\n    <application' % feat, 1)
         if "ScheduledNotificationReceiver" not in s:
@@ -198,6 +201,8 @@ def ios():
             ("NSCameraUsageDescription", "Kamera yalnızca fener, büyüteç, QR okuma ve ölçüm araçları açıkken kullanılır; görüntü cihazdan çıkmaz. / The camera is used only while a camera tool is open; images never leave the device."),
             ("NSMicrophoneUsageDescription", "Mikrofon yalnızca ses ölçer ve akort açıkken dinlenir; kayıt yapılmaz. / The microphone listens only in the sound meter and tuner; nothing is recorded."),
             ("NSLocationWhenInUseUsageDescription", "Konum yalnızca GPS hız ve rakım araçlarında, araç açıkken kullanılır; saklanmaz. / Location is used only in the GPS speed and altitude tools while open; it is not stored."),
+            ("NFCReaderUsageDescription", "NFC yalnızca NFC Etiket Okuyucu açıkken, siz okut dediğinizde etiketi okumak için kullanılır. / NFC is used only in the NFC Tag Reader, when you start a scan."),
+            ("NSLocalNetworkUsageDescription", "Ağ Bilgisi aracı yalnızca bu cihazın ağ adreslerini gösterir; ağdaki başka cihazlara bağlanmaz. / Network Info only shows this device's own addresses; it does not connect to other devices."),
             ("NSMotionUsageDescription", "Hareket ve basınç sensörleri su terazisi, açı ölçer ve barometre için kullanılır. / Motion and pressure sensors power the level, angle meter and barometer."),
         ):
             if key not in s:
@@ -253,6 +258,34 @@ def ios():
         write(pbx, s)
 
 
+def ios_entitlements():
+    """NFC etiket okuma yetkisi (Core NFC). İmzasız CI derlemesini etkilemez;
+    imzalı derlemede profilde 'NFC Tag Reading' yeteneği açık olmalıdır."""
+    if not os.path.isdir("ios/Runner"):
+        return
+    ent = "ios/Runner/Runner.entitlements"
+    if not os.path.exists(ent):
+        write(
+            ent,
+            '<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">\n'
+            '<plist version="1.0">\n<dict>\n'
+            '\t<key>com.apple.developer.nfc.readersession.formats</key>\n'
+            '\t<array>\n\t\t<string>NDEF</string>\n\t\t<string>TAG</string>\n\t</array>\n'
+            '</dict>\n</plist>\n',
+        )
+    pbx = "ios/Runner.xcodeproj/project.pbxproj"
+    if os.path.exists(pbx):
+        s = read(pbx)
+        if "CODE_SIGN_ENTITLEMENTS" not in s:
+            # Yalnızca Runner hedefinin yapılandırmaları (INFOPLIST_FILE = Runner/Info.plist).
+            s = s.replace(
+                "INFOPLIST_FILE = Runner/Info.plist;",
+                "CODE_SIGN_ENTITLEMENTS = Runner/Runner.entitlements;\n\t\t\t\tINFOPLIST_FILE = Runner/Info.plist;",
+            )
+            write(pbx, s)
+
+
 def web():
     index = "web/index.html"
     if os.path.exists(index):
@@ -281,5 +314,6 @@ def web():
 if __name__ == "__main__":
     android()
     ios()
+    ios_entitlements()
     web()
     print("platform folders patched")

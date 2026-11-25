@@ -2,6 +2,7 @@ import 'package:arac_motoru/arac_motoru.dart';
 import 'package:flutter/material.dart';
 import 'package:studio_core/apps/apps.dart';
 import 'package:uyg_aci_olcer/uyg_aci_olcer.dart';
+import 'package:uyg_ag_bilgisi/uyg_ag_bilgisi.dart';
 import 'package:uyg_alarm_saati/uyg_alarm_saati.dart';
 import 'package:uyg_ayna/uyg_ayna.dart';
 import 'package:uyg_barometre/uyg_barometre.dart';
@@ -22,6 +23,7 @@ import 'package:uyg_elektrik_hesaplayici/uyg_elektrik_hesaplayici.dart';
 import 'package:uyg_enstruman_akort/uyg_enstruman_akort.dart';
 import 'package:uyg_gece_masa_saati/uyg_gece_masa_saati.dart';
 import 'package:uyg_geri_sayim/uyg_geri_sayim.dart';
+import 'package:uyg_goz_koruma_filtresi/uyg_goz_koruma_filtresi.dart';
 import 'package:uyg_gps_hiz_olcer/uyg_gps_hiz_olcer.dart';
 import 'package:uyg_grafik_cizen_hesap_makinesi/uyg_grafik_cizen_hesap_makinesi.dart';
 import 'package:uyg_hesap_makinesi/uyg_hesap_makinesi.dart';
@@ -39,6 +41,7 @@ import 'package:uyg_metal_dedektoru/uyg_metal_dedektoru.dart';
 import 'package:uyg_metronom/uyg_metronom.dart';
 import 'package:uyg_mors_kodu/uyg_mors_kodu.dart';
 import 'package:uyg_mutfak_olcu_cevirici/uyg_mutfak_olcu_cevirici.dart';
+import 'package:uyg_nfc_okuyucu/uyg_nfc_okuyucu.dart';
 import 'package:uyg_not_ortalamasi_hesaplayici/uyg_not_ortalamasi_hesaplayici.dart';
 import 'package:uyg_pil_ve_cihaz_bilgisi/uyg_pil_ve_cihaz_bilgisi.dart';
 import 'package:uyg_pusula/uyg_pusula.dart';
@@ -56,13 +59,14 @@ import 'package:uyg_sos_feneri_ve_acil_durum/uyg_sos_feneri_ve_acil_durum.dart';
 import 'package:uyg_su_terazisi/uyg_su_terazisi.dart';
 import 'package:uyg_takvim_cevirici/uyg_takvim_cevirici.dart';
 import 'package:uyg_titresim_olcer/uyg_titresim_olcer.dart';
+import 'package:uyg_ton_ureteci/uyg_ton_ureteci.dart';
 import 'package:uyg_yakit_tuketimi_hesaplayici/uyg_yakit_tuketimi_hesaplayici.dart';
 import 'package:uyg_yas_ve_tarih_farki/uyg_yas_ve_tarih_farki.dart';
 import 'package:uyg_yuzde_ve_kesir_hesaplayici/uyg_yuzde_ve_kesir_hesaplayici.dart';
 import 'package:uyg_zamanlayici/uyg_zamanlayici.dart';
 import 'package:uyg_zar_yazi_tura_rastgele_sayi/uyg_zar_yazi_tura_rastgele_sayi.dart';
 
-/// Araç Kutusu: 60 sade, çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Araç Kutusu: 64 sade, çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -133,6 +137,10 @@ final hubConfig = AppHubConfig(
     kidemVeIhbarTazminatiHesaplayiciTool,
     sifreUreticiTool,
     sosFeneriVeAcilDurumTool,
+    tonUreteciTool,
+    nfcOkuyucuTool,
+    agBilgisiTool,
+    gozKorumaFiltresiTool,
   ],
   featured: aracFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-arac-kutusu/blob/main/PRIVACY.md',

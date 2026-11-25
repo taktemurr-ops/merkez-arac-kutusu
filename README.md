@@ -1,7 +1,7 @@
 # Araç Kutusu · Toolbox (merkez-arac-kutusu)
 
-Araç Kutusu ailesinin **merkez uygulaması**: 60 sade, çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "60 Uygulama",
+Araç Kutusu ailesinin **merkez uygulaması**: 64 sade, çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "64 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [arac-motoru](https://github.com/taktemurr-ops/arac-motoru)
