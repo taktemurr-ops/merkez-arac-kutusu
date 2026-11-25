@@ -1,4 +1,4 @@
-60 rolige offline-værktøjer til hverdagen.
+64 rolige offline-værktøjer til hverdagen.
 
 • Lommeregnere: Lommeregner, Videnskabelig lommeregner, Romertal, Talsystemomregner, Procent- og brøkberegner, Ligningsløser, Grafregner, Matricer og statistik
 • Omregnere: Enhedsomregner, Kalenderomregner (Hijri, Rumi), Alder og datoforskel, Elberegner (Ohm), Maling- og flisberegner, Køkkenmål-omregner, Tøj- og skostørrelser, Dækstørrelsesberegner, Brændstofforbrug
@@ -7,6 +7,6 @@
 • Tilfældighed og tællere: Terning, mønt, tal, Beslutningshjul, Tæller, Pointtæller, Tilfældige navne og hold
 • Sensorer og måling: Kompas, Vaterpas, Lineal og måling, GPS-speedometer, Højdemåler, Barometer, Vibrationsmåler, Metaldetektor, Vinkelmåler
 • Kamera og lys: Lommelygte, QR- og stregkodescanner, Forstørrelsesglas, Spejl, Lysmåler (lux), Afstands- og højdemåler, Farvevælger med kamera, SOS-lys og nødsituation
-• Lyd og musik: Lydmåler (dB), Metronom, Stemmeapparat, Højttalerrens
-• Enhed: Filhåndtering, Batteri og enhed, Skærm- og pixeltest, Touch- og knaptest
+• Lyd og musik: Lydmåler (dB), Metronom, Stemmeapparat, Højttalerrens, Tonegenerator
+• Enhed: Filhåndtering, Batteri og enhed, Skærm- og pixeltest, Touch- og knaptest, NFC-tag-læser, Netværksinfo, Øjenkomfortfilter
 • Tekst og koder: QR-generator, Morsekode, Adgangskodegenerator

@@ -1,4 +1,4 @@
-60 simpleng offline na tool para sa araw-araw.
+64 simpleng offline na tool para sa araw-araw.
 
 • Mga calculator: Calculator, Scientific calculator, Roman numeral converter, Number base converter, Percent at fraction calculator, Equation solver, Graphing calculator, Matrix at statistics
 • Mga converter: Unit converter, Calendar converter (Hijri, Rumi), Edad at pagitan ng petsa, Electrical calculator (Ohm), Paint at tile calculator, Kitchen measure converter, Sukat ng damit at sapatos, Tire size calculator, Fuel consumption calculator
@@ -7,6 +7,6 @@
 • Random at counter: Dice, barya at numero, Gulong ng desisyon, Counter, Score keeper, Random na pangalan at team
 • Sensor at sukat: Compass, Spirit level, Ruler at sukat, GPS speedometer, Altimeter, Barometer, Vibration meter, Metal detector, Angle meter
 • Camera at ilaw: Flashlight, QR at barcode scanner, Magnifier, Salamin, Light meter (lux), Sukat ng layo at taas, Camera color picker, SOS light at emergency
-• Tunog at musika: Sound meter (dB), Metronome, Instrument tuner, Speaker cleaner
-• Device: File manager, Baterya at device info, Screen at dead pixel test, Touch at button test
+• Tunog at musika: Sound meter (dB), Metronome, Instrument tuner, Speaker cleaner, Tone generator
+• Device: File manager, Baterya at device info, Screen at dead pixel test, Touch at button test, NFC tag reader, Impormasyon ng network, Eye comfort filter
 • Teksto at code: QR generator, Morse code, Password generator

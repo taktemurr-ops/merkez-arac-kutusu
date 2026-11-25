@@ -1,4 +1,4 @@
-60 rustige offline tools voor elke dag.
+64 rustige offline tools voor elke dag.
 
 • Rekenmachines: Rekenmachine, Wetenschappelijke rekenmachine, Romeinse cijfers omrekenen, Talstelsels omrekenen, Procent- en breukrekenaar, Vergelijkingen oplossen, Grafische rekenmachine, Matrices en statistiek
 • Omrekenaars: Eenheden omrekenen, Kalenderomrekening (Hidjra, Rumi), Leeftijd en datumverschil, Elektriciteitsrekenaar (Ohm), Verf- en tegelcalculator, Keukenmaten omrekenen, Kleding- en schoenmaten, Bandenmaatcalculator, Brandstofverbruik berekenen
@@ -7,6 +7,6 @@
 • Willekeur en tellers: Dobbelsteen, munt, getal, Beslissingswiel, Teller, Scorebord, Willekeurige namen en teams
 • Sensoren en meten: Kompas, Waterpas, Liniaal en meten, GPS-snelheidsmeter, Hoogtemeter, Barometer, Trillingsmeter, Metaaldetector, Hoekmeter
 • Camera en licht: Zaklamp, QR- en barcodescanner, Vergrootglas, Spiegel, Lichtmeter (lux), Afstand- en hoogtemeter, Kleurkiezer met camera, SOS-licht en noodgeval
-• Geluid en muziek: Geluidsmeter (dB), Metronoom, Stemapparaat, Luidsprekerreiniger
-• Apparaat: Bestandsbeheer, Batterij en apparaat, Scherm- en pixeltest, Aanraak- en knoptest
+• Geluid en muziek: Geluidsmeter (dB), Metronoom, Stemapparaat, Luidsprekerreiniger, Toongenerator
+• Apparaat: Bestandsbeheer, Batterij en apparaat, Scherm- en pixeltest, Aanraak- en knoptest, NFC-taglezer, Netwerkinfo, Ogcomfortfilter
 • Tekst en codes: QR-generator, Morsecode, Wachtwoordgenerator
