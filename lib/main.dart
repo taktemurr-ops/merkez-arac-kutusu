@@ -69,6 +69,7 @@ import 'package:uyg_yas_ve_tarih_farki/uyg_yas_ve_tarih_farki.dart';
 import 'package:uyg_yuzde_ve_kesir_hesaplayici/uyg_yuzde_ve_kesir_hesaplayici.dart';
 import 'package:uyg_zamanlayici/uyg_zamanlayici.dart';
 import 'package:uyg_zar_yazi_tura_rastgele_sayi/uyg_zar_yazi_tura_rastgele_sayi.dart';
+import 'store_flavor.dart';
 
 /// Araç Kutusu: 68 sade, çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
@@ -154,4 +155,7 @@ final hubConfig = AppHubConfig(
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-arac-kutusu/blob/main/PRIVACY.md',
 );
 
-void main() => bootstrapAppHub(hubConfig);
+void main() {
+  registerStoreFlavor();
+  bootstrapAppHub(hubConfig);
+}
