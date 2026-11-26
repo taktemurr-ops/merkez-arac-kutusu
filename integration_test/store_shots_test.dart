@@ -11,6 +11,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 import 'package:merkez_arac_kutusu/main.dart' as hub;
+import 'package:studio_core/app/approved_hub.dart' show ApprovedLook;
 import 'package:studio_core/app/services/ads.dart';
 import 'package:studio_core/app/services/purchases.dart';
 import 'package:studio_core/app/studio_look.dart';
