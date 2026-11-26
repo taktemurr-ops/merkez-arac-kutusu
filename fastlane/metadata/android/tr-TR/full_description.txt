@@ -1,9 +1,9 @@
 Günlük işler için 64 sade, çevrimdışı araç.
 
-• Hesaplama: Hesap Makinesi, Bilimsel Hesap Makinesi, Roma Rakamı Çevirici, Sayı Tabanı Çevirici, Yüzde ve Kesir Hesaplayıcı, Denklem Çözücü, Grafik Çizen Hesap Makinesi, Matris ve İstatistik
-• Çeviriciler: Birim Çevirici, Takvim Çevirici (Hicri, Rumi), Yaş ve Tarih Farkı, Elektrik Hesaplayıcı (Ohm), Boya ve Fayans Hesaplayıcı, Mutfak Ölçü Çevirici, Beden ve Ayakkabı Numarası, Lastik Ebatı Hesaplayıcı, Yakıt Tüketimi Hesaplayıcı
-• Para ve İş: Döviz Çevirici, Not Ortalaması Hesaplayıcı, Maaş Net-Brüt Hesaplayıcı, Kıdem ve İhbar Tazminatı
-• Zaman: Kronometre, Zamanlayıcı, Alarm Saati, Dünya Saati, Geri Sayım, Gece ve Masa Saati
+• Hesaplama: Hesap Makinesi, Bilimsel Hesap Makinesi, Yüzde ve Kesir Hesaplayıcı, Denklem Çözücü, Grafik Çizen Hesap Makinesi, Matris ve İstatistik, Elektrik Hesaplayıcı (Ohm), Boya ve Fayans Hesaplayıcı, Lastik Ebatı Hesaplayıcı, Yakıt Tüketimi Hesaplayıcı, Not Ortalaması Hesaplayıcı
+• Çeviriciler: Birim Çevirici, Takvim Çevirici (Hicri, Rumi), Roma Rakamı Çevirici, Sayı Tabanı Çevirici, Mutfak Ölçü Çevirici, Beden ve Ayakkabı Numarası
+• Para ve İş: Döviz Çevirici, Maaş Net-Brüt Hesaplayıcı, Kıdem ve İhbar Tazminatı
+• Zaman: Kronometre, Zamanlayıcı, Alarm Saati, Dünya Saati, Geri Sayım, Gece ve Masa Saati, Yaş ve Tarih Farkı
 • Rastgele ve Sayaç: Zar, Yazı-Tura, Sayı, Karar Çarkı, Sayaç, Skor Tutucu, Rastgele İsim ve Takım Seçici
 • Sensörler ve Ölçüm: Pusula, Su Terazisi, Cetvel ve Ölçüm, GPS Hız Ölçer, Rakım Ölçer, Barometre, Titreşim Ölçer, Metal Dedektörü, Açı Ölçer
 • Kamera ve Işık: El Feneri, QR ve Barkod Okuyucu, Büyüteç, Ayna, Işık Ölçer (lüks), Mesafe ve Yükseklik Ölçer, Kameradan Renk Seçici, SOS Feneri ve Acil Durum

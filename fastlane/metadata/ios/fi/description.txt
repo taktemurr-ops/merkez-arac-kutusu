@@ -1,9 +1,9 @@
 64 rauhallista offline-työkalua arkeen.
 
-• Laskimet: Laskin, Funktiolaskin, Roomalaiset numerot, Lukujärjestelmämuunnin, Prosentti- ja murtolukulaskin, Yhtälönratkaisija, Graafinen laskin, Matriisit ja tilastot
-• Muuntimet: Yksikkömuunnin, Kalenterimuunnin (hidžra, rumi), Ikä ja päivien erotus, Sähkölaskin (Ohm), Maali- ja laattalaskuri, Keittiömittojen muunnin, Vaate- ja kenkäkoot, Rengaskokolaskuri, Polttoaineenkulutus
-• Raha ja työ: Valuuttamuunnin, Keskiarvolaskuri, Netto-bruttopalkka, Erorahat ja irtisanomisaika
-• Aika: Sekuntikello, Ajastin, Herätyskello, Maailmankello, Lähtölaskenta, Yö- ja pöytäkello
+• Laskimet: Laskin, Funktiolaskin, Prosentti- ja murtolukulaskin, Yhtälönratkaisija, Graafinen laskin, Matriisit ja tilastot, Sähkölaskin (Ohm), Maali- ja laattalaskuri, Rengaskokolaskuri, Polttoaineenkulutus, Keskiarvolaskuri
+• Muuntimet: Yksikkömuunnin, Kalenterimuunnin (hidžra, rumi), Roomalaiset numerot, Lukujärjestelmämuunnin, Keittiömittojen muunnin, Vaate- ja kenkäkoot
+• Raha ja työ: Valuuttamuunnin, Netto-bruttopalkka, Erorahat ja irtisanomisaika
+• Aika: Sekuntikello, Ajastin, Herätyskello, Maailmankello, Lähtölaskenta, Yö- ja pöytäkello, Ikä ja päivien erotus
 • Satunnaisuus ja laskurit: Noppa, kolikko, luku, Päätöspyörä, Laskuri, Pistelaskuri, Satunnaiset nimet ja joukkueet
 • Anturit ja mittaus: Kompassi, Vesivaaka, Viivain ja mittaus, GPS-nopeusmittari, Korkeusmittari, Ilmanpainemittari, Tärinämittari, Metallinpaljastin, Kulmamittari
 • Kamera ja valo: Taskulamppu, QR- ja viivakoodinlukija, Suurennuslasi, Peili, Valomittari (lux), Etäisyys- ja korkeusmittari, Kameran värivalitsin, SOS-valo ja hätätilanne

@@ -1,9 +1,9 @@
 64 rustige offline tools voor elke dag.
 
-• Rekenmachines: Rekenmachine, Wetenschappelijke rekenmachine, Romeinse cijfers omrekenen, Talstelsels omrekenen, Procent- en breukrekenaar, Vergelijkingen oplossen, Grafische rekenmachine, Matrices en statistiek
-• Omrekenaars: Eenheden omrekenen, Kalenderomrekening (Hidjra, Rumi), Leeftijd en datumverschil, Elektriciteitsrekenaar (Ohm), Verf- en tegelcalculator, Keukenmaten omrekenen, Kleding- en schoenmaten, Bandenmaatcalculator, Brandstofverbruik berekenen
-• Geld en werk: Valuta omrekenen, Gemiddelde berekenen, Netto-brutosalaris berekenen, Ontslagvergoeding en opzegtermijn
-• Tijd: Stopwatch, Timer, Wekker, Wereldklok, Aftellen, Nacht- en bureauklok
+• Rekenmachines: Rekenmachine, Wetenschappelijke rekenmachine, Procent- en breukrekenaar, Vergelijkingen oplossen, Grafische rekenmachine, Matrices en statistiek, Elektriciteitsrekenaar (Ohm), Verf- en tegelcalculator, Bandenmaatcalculator, Brandstofverbruik berekenen, Gemiddelde berekenen
+• Omrekenaars: Eenheden omrekenen, Kalenderomrekening (Hidjra, Rumi), Romeinse cijfers omrekenen, Talstelsels omrekenen, Keukenmaten omrekenen, Kleding- en schoenmaten
+• Geld en werk: Valuta omrekenen, Netto-brutosalaris berekenen, Ontslagvergoeding en opzegtermijn
+• Tijd: Stopwatch, Timer, Wekker, Wereldklok, Aftellen, Nacht- en bureauklok, Leeftijd en datumverschil
 • Willekeur en tellers: Dobbelsteen, munt, getal, Beslissingswiel, Teller, Scorebord, Willekeurige namen en teams
 • Sensoren en meten: Kompas, Waterpas, Liniaal en meten, GPS-snelheidsmeter, Hoogtemeter, Barometer, Trillingsmeter, Metaaldetector, Hoekmeter
 • Camera en licht: Zaklamp, QR- en barcodescanner, Vergrootglas, Spiegel, Lichtmeter (lux), Afstand- en hoogtemeter, Kleurkiezer met camera, SOS-licht en noodgeval

@@ -1,9 +1,9 @@
 64 strumenti semplici e offline per ogni giorno.
 
-• Calcolatrici: Calcolatrice, Calcolatrice scientifica, Convertitore numeri romani, Convertitore di basi numeriche, Calcolatore percentuali e frazioni, Risolutore di equazioni, Calcolatrice grafica, Matrici e statistica
-• Convertitori: Convertitore di unità, Convertitore di calendario (Egira, Rumi), Età e differenza di date, Calcolatore elettrico (Ohm), Calcolo vernice e piastrelle, Convertitore misure da cucina, Taglie di abiti e scarpe, Calcolatore misure pneumatici, Calcolo consumo carburante
-• Soldi e lavoro: Convertitore di valute, Calcolo della media, Calcolo stipendio netto-lordo, TFR e preavviso
-• Tempo: Cronometro, Timer, Sveglia, Orologio mondiale, Conto alla rovescia, Orologio notturno da scrivania
+• Calcolatrici: Calcolatrice, Calcolatrice scientifica, Calcolatore percentuali e frazioni, Risolutore di equazioni, Calcolatrice grafica, Matrici e statistica, Calcolatore elettrico (Ohm), Calcolo vernice e piastrelle, Calcolatore misure pneumatici, Calcolo consumo carburante, Calcolo della media
+• Convertitori: Convertitore di unità, Convertitore di calendario (Egira, Rumi), Convertitore numeri romani, Convertitore di basi numeriche, Convertitore misure da cucina, Taglie di abiti e scarpe
+• Soldi e lavoro: Convertitore di valute, Calcolo stipendio netto-lordo, TFR e preavviso
+• Tempo: Cronometro, Timer, Sveglia, Orologio mondiale, Conto alla rovescia, Orologio notturno da scrivania, Età e differenza di date
 • Casuale e contatori: Dadi, moneta e numero, Ruota delle decisioni, Contapersone, Segnapunti, Estrazione nomi e squadre
 • Sensori e misure: Bussola, Livella, Righello e misura, Tachimetro GPS, Altimetro, Barometro, Vibrometro, Metal detector, Goniometro
 • Fotocamera e luce: Torcia, Lettore QR e codici a barre, Lente d'ingrandimento, Specchio, Luxmetro, Misura distanza e altezza, Selettore colore da fotocamera, Luce SOS ed emergenza

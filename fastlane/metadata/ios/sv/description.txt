@@ -1,9 +1,9 @@
 64 lugna offlineverktyg för vardagen.
 
-• Räknare: Miniräknare, Vetenskaplig räknare, Romerska siffror, Talbasomvandlare, Procent- och bråkräknare, Ekvationslösare, Grafräknare, Matriser och statistik
-• Omvandlare: Enhetsomvandlare, Kalenderomvandlare (Hijri, Rumi), Ålder och datumskillnad, Elräknare (Ohm), Färg- och kakelräknare, Köksmått-omvandlare, Kläd- och skostorlekar, Däckstorleksräknare, Bränsleförbrukning
-• Pengar och arbete: Valutaomvandlare, Snittbetygsräknare, Lön netto-brutto, Avgångsvederlag och uppsägning
-• Tid: Tidtagarur, Timer, Väckarklocka, Världsklocka, Nedräkning, Natt- och skrivbordsklocka
+• Räknare: Miniräknare, Vetenskaplig räknare, Procent- och bråkräknare, Ekvationslösare, Grafräknare, Matriser och statistik, Elräknare (Ohm), Färg- och kakelräknare, Däckstorleksräknare, Bränsleförbrukning, Snittbetygsräknare
+• Omvandlare: Enhetsomvandlare, Kalenderomvandlare (Hijri, Rumi), Romerska siffror, Talbasomvandlare, Köksmått-omvandlare, Kläd- och skostorlekar
+• Pengar och arbete: Valutaomvandlare, Lön netto-brutto, Avgångsvederlag och uppsägning
+• Tid: Tidtagarur, Timer, Väckarklocka, Världsklocka, Nedräkning, Natt- och skrivbordsklocka, Ålder och datumskillnad
 • Slump och räknare: Tärning, mynt, tal, Beslutshjul, Räknare, Poängräknare, Slumpa namn och lag
 • Sensorer och mätning: Kompass, Vattenpass, Linjal och mätning, GPS-hastighetsmätare, Höjdmätare, Barometer, Vibrationsmätare, Metalldetektor, Vinkelmätare
 • Kamera och ljus: Ficklampa, QR- och streckkodsläsare, Förstoringsglas, Spegel, Ljusmätare (lux), Avstånds- och höjdmätare, Färgväljare med kamera, SOS-ljus och nödläge

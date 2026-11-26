@@ -1,9 +1,9 @@
 64 spokojnych narzędzi offline na co dzień.
 
-• Kalkulatory: Kalkulator, Kalkulator naukowy, Liczby rzymskie, Przelicznik systemów liczbowych, Kalkulator procentów i ułamków, Rozwiązywanie równań, Kalkulator graficzny, Macierze i statystyka
-• Przeliczniki: Przelicznik jednostek, Przelicznik kalendarzy (hidżry, rumi), Wiek i różnica dat, Kalkulator elektryczny (Ohm), Kalkulator farby i płytek, Przelicznik miar kuchennych, Rozmiary ubrań i butów, Kalkulator rozmiaru opon, Kalkulator spalania
-• Pieniądze i praca: Przelicznik walut, Kalkulator średniej, Kalkulator wynagrodzeń netto-brutto, Odprawa i okres wypowiedzenia
-• Czas: Stoper, Minutnik, Budzik, Zegar światowy, Odliczanie, Zegar nocny i biurkowy
+• Kalkulatory: Kalkulator, Kalkulator naukowy, Kalkulator procentów i ułamków, Rozwiązywanie równań, Kalkulator graficzny, Macierze i statystyka, Kalkulator elektryczny (Ohm), Kalkulator farby i płytek, Kalkulator rozmiaru opon, Kalkulator spalania, Kalkulator średniej
+• Przeliczniki: Przelicznik jednostek, Przelicznik kalendarzy (hidżry, rumi), Liczby rzymskie, Przelicznik systemów liczbowych, Przelicznik miar kuchennych, Rozmiary ubrań i butów
+• Pieniądze i praca: Przelicznik walut, Kalkulator wynagrodzeń netto-brutto, Odprawa i okres wypowiedzenia
+• Czas: Stoper, Minutnik, Budzik, Zegar światowy, Odliczanie, Zegar nocny i biurkowy, Wiek i różnica dat
 • Losowość i liczniki: Kości, moneta, liczba, Koło decyzji, Licznik, Licznik punktów, Losowanie osób i drużyn
 • Czujniki i pomiar: Kompas, Poziomica, Linijka i pomiar, Prędkościomierz GPS, Wysokościomierz, Barometr, Miernik drgań, Wykrywacz metali, Kątomierz
 • Aparat i światło: Latarka, Skaner QR i kodów, Lupa, Lustro, Luksomierz, Miernik odległości i wysokości, Próbnik kolorów z aparatu, Światło SOS i sytuacje awaryjne

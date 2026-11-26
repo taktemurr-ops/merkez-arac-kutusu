@@ -1,9 +1,9 @@
 64 rolige frakoblede verktøy for hverdagen.
 
-• Kalkulatorer: Kalkulator, Vitenskapelig kalkulator, Romertall, Tallsystemomregner, Prosent- og brøkkalkulator, Likningsløser, Grafkalkulator, Matriser og statistikk
-• Omregnere: Enhetsomregner, Kalenderomregner (Hijri, Rumi), Alder og datoforskjell, Elektrisk kalkulator (Ohm), Maling- og flisekalkulator, Kjøkkenmål-omregner, Klær- og skostørrelser, Dekkstørrelseskalkulator, Drivstofforbruk
-• Penger og arbeid: Valutakalkulator, Karaktersnitt, Lønn netto-brutto, Sluttvederlag og oppsigelse
-• Tid: Stoppeklokke, Tidtaker, Vekkerklokke, Verdensur, Nedtelling, Natt- og skrivebordsklokke
+• Kalkulatorer: Kalkulator, Vitenskapelig kalkulator, Prosent- og brøkkalkulator, Likningsløser, Grafkalkulator, Matriser og statistikk, Elektrisk kalkulator (Ohm), Maling- og flisekalkulator, Dekkstørrelseskalkulator, Drivstofforbruk, Karaktersnitt
+• Omregnere: Enhetsomregner, Kalenderomregner (Hijri, Rumi), Romertall, Tallsystemomregner, Kjøkkenmål-omregner, Klær- og skostørrelser
+• Penger og arbeid: Valutakalkulator, Lønn netto-brutto, Sluttvederlag og oppsigelse
+• Tid: Stoppeklokke, Tidtaker, Vekkerklokke, Verdensur, Nedtelling, Natt- og skrivebordsklokke, Alder og datoforskjell
 • Tilfeldig og tellere: Terning, mynt, tall, Beslutningshjul, Teller, Poengteller, Tilfeldige navn og lag
 • Sensorer og måling: Kompass, Vater, Linjal og måling, GPS-speedometer, Høydemåler, Barometer, Vibrasjonsmåler, Metalldetektor, Vinkelmåler
 • Kamera og lys: Lommelykt, QR- og strekkodeleser, Forstørrelsesglass, Speil, Lysmåler (lux), Avstands- og høydemåler, Fargevelger med kamera, SOS-lys og nødsituasjon

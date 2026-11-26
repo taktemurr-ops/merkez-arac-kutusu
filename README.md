@@ -71,3 +71,7 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | Kıdem ve İhbar Tazminatı | [uyg-kidem-ve-ihbar-tazminati-hesaplayici](https://github.com/taktemurr-ops/uyg-kidem-ve-ihbar-tazminati-hesaplayici) |
 | Şifre Üretici | [uyg-sifre-uretici](https://github.com/taktemurr-ops/uyg-sifre-uretici) |
 | SOS Feneri ve Acil Durum | [uyg-sos-feneri-ve-acil-durum](https://github.com/taktemurr-ops/uyg-sos-feneri-ve-acil-durum) |
+| Ton Üreteci | [uyg-ton-ureteci](https://github.com/taktemurr-ops/uyg-ton-ureteci) |
+| NFC Etiket Okuyucu | [uyg-nfc-okuyucu](https://github.com/taktemurr-ops/uyg-nfc-okuyucu) |
+| Ağ Bilgisi | [uyg-ag-bilgisi](https://github.com/taktemurr-ops/uyg-ag-bilgisi) |
+| Göz Koruma Filtresi | [uyg-goz-koruma-filtresi](https://github.com/taktemurr-ops/uyg-goz-koruma-filtresi) |
