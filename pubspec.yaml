@@ -13,12 +13,12 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
   # Araçların ortak motoru
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: 86f6938887a0f14290f7497eb5275a3e164f087d
+      ref: e2f29c37ccce40d4db8ec3dfc54607b04958c40f
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_hesap_makinesi:
     git:
@@ -289,11 +289,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: a80a018ac4a9c5ff6b71b132e409592407ce10a3
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: 86f6938887a0f14290f7497eb5275a3e164f087d
+      ref: e2f29c37ccce40d4db8ec3dfc54607b04958c40f
 
 dev_dependencies:
   flutter_test:
