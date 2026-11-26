@@ -36,7 +36,7 @@ const _targets = [
   _Target('phone', Size(360, 640), Size(400, 800), 3),
   _Target('tablet', Size(1280, 720), Size(1000, 620), 1.5),
   _Target('iphone', Size(430, 932), Size(400, 860), 3),
-  _Target('ipad', Size(512, 683), Size(820, 1060), 4),
+  _Target('ipad', Size(512, 683), Size(640, 860), 4),
 ];
 
 Widget _app(AppServices s, String lang, Widget child) {
