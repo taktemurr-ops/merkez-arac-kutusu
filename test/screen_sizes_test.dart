@@ -79,7 +79,7 @@ void main() {
     final s = (await tester.runAsync(() => _services('tr')))!;
     await sweep(tester, issues, 'merkez', langScales: const [('tr', 1.0), ('tr', 1.3), ('ar', 1.3)], (lang) async {
       await tester.runAsync(() => s.setLanguage(lang));
-      await tester.pumpWidget(AppHubApp(config: hub.hubConfig, services: s));
+      await tester.pumpWidget(fresh(AppHubApp(config: hub.hubConfig, services: s)));
     });
     expect(issues.items.where((i) => i.startsWith('SORUN|merkez|')).toList(), isEmpty);
   }, timeout: const Timeout(Duration(minutes: 10)));
@@ -90,7 +90,7 @@ void main() {
       await sweep(tester, issues, t.id, langScales: const [('tr', 1.3), ('ar', 1.3)], (lang) async {
         await tester.runAsync(() => s.setLanguage(lang));
         await _guarded(t.id, () async {
-          await tester.pumpWidget(_app(lang, AppToolPage(config: hub.hubConfig, tool: t, services: s, lang: lang)));
+          await tester.pumpWidget(fresh(_app(lang, AppToolPage(config: hub.hubConfig, tool: t, services: s, lang: lang))));
         });
       });
       expect(issues.items.where((i) => i.startsWith('SORUN|${t.id}|')).toList(), isEmpty);
