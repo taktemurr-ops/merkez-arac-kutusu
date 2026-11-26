@@ -1,4 +1,4 @@
-64 rauhallista offline-työkalua arkeen.
+68 rauhallista offline-työkalua arkeen.
 
 • Laskimet: Laskin, Funktiolaskin, Prosentti- ja murtolukulaskin, Yhtälönratkaisija, Graafinen laskin, Matriisit ja tilastot, Sähkölaskin (Ohm), Maali- ja laattalaskuri, Rengaskokolaskuri, Polttoaineenkulutus, Keskiarvolaskuri
 • Muuntimet: Yksikkömuunnin, Kalenterimuunnin (hidžra, rumi), Roomalaiset numerot, Lukujärjestelmämuunnin, Keittiömittojen muunnin, Vaate- ja kenkäkoot
@@ -7,6 +7,6 @@
 • Satunnaisuus ja laskurit: Noppa, kolikko, luku, Päätöspyörä, Laskuri, Pistelaskuri, Satunnaiset nimet ja joukkueet
 • Anturit ja mittaus: Kompassi, Vesivaaka, Viivain ja mittaus, GPS-nopeusmittari, Korkeusmittari, Ilmanpainemittari, Tärinämittari, Metallinpaljastin, Kulmamittari
 • Kamera ja valo: Taskulamppu, QR- ja viivakoodinlukija, Suurennuslasi, Peili, Valomittari (lux), Etäisyys- ja korkeusmittari, Kameran värivalitsin, SOS-valo ja hätätilanne
-• Ääni ja musiikki: Äänimittari (dB), Metronomi, Viritin, Kaiuttimen puhdistus, Äänigeneraattori
-• Laite: Tiedostonhallinta, Akku ja laite, Näyttö- ja pikselitesti, Kosketus- ja näppäintesti, NFC-tunnisteiden lukija, Verkon tiedot, Silmiä säästävä suodin
+• Ääni ja musiikki: Äänimittari (dB), Metronomi, Viritin, Kaiuttimen puhdistus, Äänigeneraattori, Taputa ja löydä puhelin
+• Laite: Tiedostonhallinta, Akku ja laite, Näyttö- ja pikselitesti, Kosketus- ja näppäintesti, NFC-tunnisteiden lukija, Verkon tiedot, Silmiä säästävä suodin, Infrapuna-TV-kaukosäädin, Bluetooth-laitteiden etsijä, Arkistojen purkaja
 • Teksti ja koodit: QR-generaattori, Morseaakkoset, Salasanageneraattori

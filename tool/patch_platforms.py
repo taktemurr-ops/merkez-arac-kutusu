@@ -199,11 +199,12 @@ def ios():
         extra = ""
         for key, text in (
             ("NSCameraUsageDescription", "Kamera yalnızca fener, büyüteç, QR okuma ve ölçüm araçları açıkken kullanılır; görüntü cihazdan çıkmaz. / The camera is used only while a camera tool is open; images never leave the device."),
-            ("NSMicrophoneUsageDescription", "Mikrofon yalnızca ses ölçer ve akort açıkken dinlenir; kayıt yapılmaz. / The microphone listens only in the sound meter and tuner; nothing is recorded."),
+            ("NSMicrophoneUsageDescription", "Mikrofon yalnızca ses ölçer, akort ve alkışla-bul açıkken cihazda dinlenir; kayıt yapılmaz. / The microphone listens on the device only in the sound meter, tuner and clap-to-find tools; nothing is recorded."),
             ("NSLocationWhenInUseUsageDescription", "Konum yalnızca GPS hız ve rakım araçlarında, araç açıkken kullanılır; saklanmaz. / Location is used only in the GPS speed and altitude tools while open; it is not stored."),
             ("NFCReaderUsageDescription", "NFC yalnızca NFC Etiket Okuyucu açıkken, siz okut dediğinizde etiketi okumak için kullanılır. / NFC is used only in the NFC Tag Reader, when you start a scan."),
             ("NSLocalNetworkUsageDescription", "Ağ Bilgisi aracı yalnızca bu cihazın ağ adreslerini gösterir; ağdaki başka cihazlara bağlanmaz. / Network Info only shows this device's own addresses; it does not connect to other devices."),
             ("NSMotionUsageDescription", "Hareket ve basınç sensörleri su terazisi, açı ölçer ve barometre için kullanılır. / Motion and pressure sensors power the level, angle meter and barometer."),
+            ("NSBluetoothAlwaysUsageDescription", "Bluetooth yalnızca Bluetooth Cihaz Bulucu açıkken yakındaki cihazların adını ve sinyal gücünü görmek için kullanılır; bağlantı kurulmaz. / Bluetooth is used only in the Bluetooth Device Finder to see nearby devices' names and signal strength; nothing is connected."),
         ):
             if key not in s:
                 extra += "\t<key>%s</key>\n\t<string>%s</string>\n" % (key, text)

@@ -1,4 +1,4 @@
-64 ruhige Offline-Werkzeuge für den Alltag.
+68 ruhige Offline-Werkzeuge für den Alltag.
 
 • Rechner: Taschenrechner, Wissenschaftlicher Rechner, Prozent- und Bruchrechner, Gleichungslöser, Grafikrechner, Matrix und Statistik, Elektrorechner (Ohm), Farb- und Fliesenrechner, Reifengrößenrechner, Verbrauchsrechner, Notendurchschnitt
 • Umrechner: Einheitenrechner, Kalenderumrechner (Hidschri, Rumi), Römische Zahlen umrechnen, Zahlensystem-Umrechner, Küchenmaße umrechnen, Kleider- und Schuhgrößen
@@ -7,6 +7,6 @@
 • Zufall und Zähler: Würfel, Münze, Zahl, Entscheidungsrad, Zähler, Punktezähler, Zufällige Namen und Teams
 • Sensoren und Messen: Kompass, Wasserwaage, Lineal und Messen, GPS-Tachometer, Höhenmesser, Barometer, Vibrationsmesser, Metalldetektor, Winkelmesser
 • Kamera und Licht: Taschenlampe, QR- und Barcode-Scanner, Lupe, Spiegel, Belichtungsmesser (Lux), Entfernungs- und Höhenmesser, Farbwähler per Kamera, SOS-Licht und Notfall
-• Klang und Musik: Schallpegelmesser (dB), Metronom, Stimmgerät, Lautsprecher-Reiniger, Tongenerator
-• Gerät: Dateimanager, Akku- und Geräteinfo, Bildschirm- und Pixeltest, Touch- und Tastentest, NFC-Tag-Leser, Netzwerkinfo, Augenschutzfilter
+• Klang und Musik: Schallpegelmesser (dB), Metronom, Stimmgerät, Lautsprecher-Reiniger, Tongenerator, Klatschen und Handy finden
+• Gerät: Dateimanager, Akku- und Geräteinfo, Bildschirm- und Pixeltest, Touch- und Tastentest, NFC-Tag-Leser, Netzwerkinfo, Augenschutzfilter, IR-TV-Fernbedienung, Bluetooth-Gerätefinder, Archiv-Entpacker
 • Text und Codes: QR-Generator, Morsecode, Passwort-Generator

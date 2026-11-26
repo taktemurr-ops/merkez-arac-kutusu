@@ -1,4 +1,4 @@
-64 outils simples et hors ligne pour le quotidien.
+68 outils simples et hors ligne pour le quotidien.
 
 • Calculatrices: Calculatrice, Calculatrice scientifique, Calcul de pourcentages et fractions, Solveur d'équations, Calculatrice graphique, Matrices et statistiques, Calculateur électrique (Ohm), Calcul peinture et carrelage, Calculateur de taille de pneus, Calcul de consommation de carburant, Calcul de moyenne
 • Convertisseurs: Convertisseur d'unités, Convertisseur de calendrier (Hégire, Rumi), Convertisseur de chiffres romains, Convertisseur de bases, Convertisseur de mesures de cuisine, Tailles de vêtements et pointures
@@ -7,6 +7,6 @@
 • Hasard et compteurs: Dés, pile ou face, nombre, Roue des décisions, Compteur, Compteur de points, Tirage de noms et d'équipes
 • Capteurs et mesure: Boussole, Niveau à bulle, Règle et mesure, Compteur de vitesse GPS, Altimètre, Baromètre, Vibromètre, Détecteur de métaux, Rapporteur
 • Caméra et lumière: Lampe torche, Lecteur QR et code-barres, Loupe, Miroir, Luxmètre, Mesure de distance et hauteur, Pipette couleur caméra, Lumière SOS et urgence
-• Son et musique: Sonomètre (dB), Métronome, Accordeur, Nettoyeur de haut-parleur, Générateur de tonalité
-• Appareil: Gestionnaire de fichiers, Batterie et infos appareil, Test d'écran et pixels morts, Test tactile et boutons, Lecteur de tags NFC, Infos réseau, Filtre de confort visuel
+• Son et musique: Sonomètre (dB), Métronome, Accordeur, Nettoyeur de haut-parleur, Générateur de tonalité, Frappez pour trouver le téléphone
+• Appareil: Gestionnaire de fichiers, Batterie et infos appareil, Test d'écran et pixels morts, Test tactile et boutons, Lecteur de tags NFC, Infos réseau, Filtre de confort visuel, Télécommande TV infrarouge, Localisateur d'appareils Bluetooth, Extracteur d'archives
 • Texte et codes: Générateur de QR, Code Morse, Générateur de mots de passe

@@ -6,7 +6,10 @@ _Son güncelleme / Last updated: 2026-11-26_
 - Araçlar internet olmadan çalışır. Verileriniz (geçmiş, favoriler, ayarlar) yalnızca **cihazınızda** saklanır.
 - Hesap, ad, e-posta veya kişi listesi **istemeyiz ve toplamayız**.
 - **Kamera** yalnızca fener, büyüteç, ayna, QR okuyucu, renk seçici, ışık ölçer ve mesafe araçları açıkken kullanılır; görüntü cihazdan çıkmaz ve kaydedilmez.
-- **Mikrofon** yalnızca ses ölçer ve akort açıkken dinlenir; ses kaydedilmez ve gönderilmez.
+- **Mikrofon** yalnızca ses ölçer, akort ve "Alkışla Telefonu Bul" açıkken cihazda dinlenir; ses kaydedilmez ve gönderilmez. Alkışla bul Android'de siz başlattığınızda kalıcı bildirimle arka planda dinler.
+- **Bluetooth** yalnızca Bluetooth Cihaz Bulucu açıkken yakındaki cihazların adını ve sinyal gücünü görmek için kullanılır; bağlantı kurulmaz, konum belirlenmez.
+- **Kızılötesi** kumanda yalnızca IR vericili Android telefonlarda, siz düğmeye bastığınızda TV koduna karşılık gelen ışığı yollar.
+- **Arşiv açıcı** seçtiğiniz dosyayı cihazda açar; dosyalar gönderilmez.
 - **Konum** yalnızca GPS hız ölçer ve rakım ölçer açıkken kullanılır; saklanmaz ve gönderilmez.
 - **Dosyalar:** Dosya yöneticisi tüm depolamaya erişim istemez; yalnızca sistem seçicisiyle sizin seçtiğiniz dosyaları açar.
 - **Bildirimler** yalnızca zamanlayıcı ve alarm için kullanılır.
@@ -21,7 +24,10 @@ _Son güncelleme / Last updated: 2026-11-26_
 - The tools work offline. Your data (history, favourites, settings) is stored **only on your device**.
 - We do **not** ask for or collect accounts, names, e-mail or contacts.
 - The **camera** is used only while the flashlight, magnifier, mirror, QR scanner, colour picker, light meter or distance tool is open; images never leave the device and are not saved.
-- The **microphone** listens only while the sound meter or tuner is open; nothing is recorded or sent.
+- The **microphone** listens on the device only while the sound meter, tuner or "Clap to Find Phone" is open; nothing is recorded or sent. On Android, clap-to-find keeps listening in the background with a persistent notification after you start it.
+- **Bluetooth** is used only in the Bluetooth Device Finder to see nearby devices' names and signal strength; nothing is connected and no location is determined.
+- The **infrared** remote works only on Android phones with an IR blaster and sends the TV code when you press a button.
+- The **archive extractor** opens the file you pick on the device; files are not uploaded.
 - **Location** is used only while the GPS speedometer or altimeter is open; it is not stored or sent.
 - **Files:** the file manager never requests all-files access; it opens only the files you choose in the system picker.
 - **Notifications** are used only for the timer and alarms.

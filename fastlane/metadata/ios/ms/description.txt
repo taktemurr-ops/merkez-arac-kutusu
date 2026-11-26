@@ -1,4 +1,4 @@
-64 alat ringkas luar talian untuk harian.
+68 alat ringkas luar talian untuk harian.
 
 • Kalkulator: Kalkulator, Kalkulator saintifik, Kalkulator peratus & pecahan, Penyelesai persamaan, Kalkulator graf, Matriks & statistik, Kalkulator elektrik (Ohm), Kalkulator cat & jubin, Kalkulator saiz tayar, Kalkulator penggunaan bahan api, Kalkulator PNG
 • Penukar: Penukar unit, Penukar kalendar (Hijrah, Rumi), Penukar angka Roman, Penukar asas nombor, Penukar sukatan dapur, Saiz pakaian & kasut
@@ -7,6 +7,6 @@
 • Rawak & pembilang: Dadu, syiling, nombor, Roda keputusan, Pembilang, Penjaga markah, Pemilih nama & pasukan rawak
 • Penderia & ukur: Kompas, Aras air, Pembaris & ukur, Meter laju GPS, Altimeter, Barometer, Meter getaran, Pengesan logam, Jangka sudut
 • Kamera & cahaya: Lampu suluh, Pengimbas QR & kod bar, Kanta pembesar, Cermin, Meter cahaya (lux), Pengukur jarak & tinggi, Pemilih warna kamera, Lampu SOS & kecemasan
-• Bunyi & muzik: Meter bunyi (dB), Metronom, Penala alat muzik, Pembersih pembesar suara, Penjana nada
-• Peranti: Pengurus fail, Bateri & maklumat peranti, Ujian skrin & piksel mati, Ujian sentuh & butang, Pembaca tag NFC, Maklumat rangkaian, Penapis selesa mata
+• Bunyi & muzik: Meter bunyi (dB), Metronom, Penala alat muzik, Pembersih pembesar suara, Penjana nada, Tepuk tangan cari telefon
+• Peranti: Pengurus fail, Bateri & maklumat peranti, Ujian skrin & piksel mati, Ujian sentuh & butang, Pembaca tag NFC, Maklumat rangkaian, Penapis selesa mata, Alat kawalan jauh TV inframerah, Pencari peranti Bluetooth, Pengekstrak arkib
 • Teks & kod: Penjana QR, Kod Morse, Penjana kata laluan

@@ -1,4 +1,4 @@
-64 lugna offlineverktyg för vardagen.
+68 lugna offlineverktyg för vardagen.
 
 • Räknare: Miniräknare, Vetenskaplig räknare, Procent- och bråkräknare, Ekvationslösare, Grafräknare, Matriser och statistik, Elräknare (Ohm), Färg- och kakelräknare, Däckstorleksräknare, Bränsleförbrukning, Snittbetygsräknare
 • Omvandlare: Enhetsomvandlare, Kalenderomvandlare (Hijri, Rumi), Romerska siffror, Talbasomvandlare, Köksmått-omvandlare, Kläd- och skostorlekar
@@ -7,6 +7,6 @@
 • Slump och räknare: Tärning, mynt, tal, Beslutshjul, Räknare, Poängräknare, Slumpa namn och lag
 • Sensorer och mätning: Kompass, Vattenpass, Linjal och mätning, GPS-hastighetsmätare, Höjdmätare, Barometer, Vibrationsmätare, Metalldetektor, Vinkelmätare
 • Kamera och ljus: Ficklampa, QR- och streckkodsläsare, Förstoringsglas, Spegel, Ljusmätare (lux), Avstånds- och höjdmätare, Färgväljare med kamera, SOS-ljus och nödläge
-• Ljud och musik: Ljudmätare (dB), Metronom, Stämapparat, Högtalarrengöring, Tongenerator
-• Enhet: Filhanterare, Batteri och enhet, Skärm- och pixeltest, Pek- och knapptest, NFC-taggläsare, Nätverksinfo, Ögonskyddsfilter
+• Ljud och musik: Ljudmätare (dB), Metronom, Stämapparat, Högtalarrengöring, Tongenerator, Klappa och hitta mobilen
+• Enhet: Filhanterare, Batteri och enhet, Skärm- och pixeltest, Pek- och knapptest, NFC-taggläsare, Nätverksinfo, Ögonskyddsfilter, IR-fjärrkontroll för tv, Bluetooth-enhetssökare, Arkivuppackare
 • Text och koder: QR-generator, Morsekod, Lösenordsgenerator

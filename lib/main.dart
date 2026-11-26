@@ -4,11 +4,14 @@ import 'package:studio_core/apps/apps.dart';
 import 'package:uyg_aci_olcer/uyg_aci_olcer.dart';
 import 'package:uyg_ag_bilgisi/uyg_ag_bilgisi.dart';
 import 'package:uyg_alarm_saati/uyg_alarm_saati.dart';
+import 'package:uyg_alkisla_telefonu_bul/uyg_alkisla_telefonu_bul.dart';
+import 'package:uyg_arsiv_acici/uyg_arsiv_acici.dart';
 import 'package:uyg_ayna/uyg_ayna.dart';
 import 'package:uyg_barometre/uyg_barometre.dart';
 import 'package:uyg_beden_ve_ayakkabi_numarasi_cevirici/uyg_beden_ve_ayakkabi_numarasi_cevirici.dart';
 import 'package:uyg_bilimsel_hesap_makinesi/uyg_bilimsel_hesap_makinesi.dart';
 import 'package:uyg_birim_cevirici/uyg_birim_cevirici.dart';
+import 'package:uyg_bluetooth_bulucu/uyg_bluetooth_bulucu.dart';
 import 'package:uyg_boya_ve_fayans_hesaplayici/uyg_boya_ve_fayans_hesaplayici.dart';
 import 'package:uyg_buyutec/uyg_buyutec.dart';
 import 'package:uyg_cetvel_ve_olcum/uyg_cetvel_ve_olcum.dart';
@@ -32,6 +35,7 @@ import 'package:uyg_isik_olcer/uyg_isik_olcer.dart';
 import 'package:uyg_kameradan_renk_secici/uyg_kameradan_renk_secici.dart';
 import 'package:uyg_karar_carki/uyg_karar_carki.dart';
 import 'package:uyg_kidem_ve_ihbar_tazminati_hesaplayici/uyg_kidem_ve_ihbar_tazminati_hesaplayici.dart';
+import 'package:uyg_kizilotesi_kumanda/uyg_kizilotesi_kumanda.dart';
 import 'package:uyg_kronometre/uyg_kronometre.dart';
 import 'package:uyg_lastik_ebati_hesaplayici/uyg_lastik_ebati_hesaplayici.dart';
 import 'package:uyg_maas_net_brut_hesaplayici/uyg_maas_net_brut_hesaplayici.dart';
@@ -66,7 +70,7 @@ import 'package:uyg_yuzde_ve_kesir_hesaplayici/uyg_yuzde_ve_kesir_hesaplayici.da
 import 'package:uyg_zamanlayici/uyg_zamanlayici.dart';
 import 'package:uyg_zar_yazi_tura_rastgele_sayi/uyg_zar_yazi_tura_rastgele_sayi.dart';
 
-/// Araç Kutusu: 64 sade, çevrimdışı araç tek uygulamada. Her aracın verisi
+/// Araç Kutusu: 68 sade, çevrimdışı araç tek uygulamada. Her aracın verisi
 /// ayrı saklanır; reklam yalnızca bir araçtan çıkarken ve en az 3 dakika
 /// arayla gösterilir.
 final hubConfig = AppHubConfig(
@@ -141,6 +145,10 @@ final hubConfig = AppHubConfig(
     nfcOkuyucuTool,
     agBilgisiTool,
     gozKorumaFiltresiTool,
+    alkislaTelefonuBulTool,
+    kizilotesiKumandaTool,
+    bluetoothBulucuTool,
+    arsivAciciTool,
   ],
   featured: aracFeatured,
   privacyUrl: 'https://github.com/taktemurr-ops/merkez-arac-kutusu/blob/main/PRIVACY.md',

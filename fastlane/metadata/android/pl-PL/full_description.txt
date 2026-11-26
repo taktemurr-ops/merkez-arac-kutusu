@@ -1,4 +1,4 @@
-64 spokojnych narzędzi offline na co dzień.
+68 spokojnych narzędzi offline na co dzień.
 
 • Kalkulatory: Kalkulator, Kalkulator naukowy, Kalkulator procentów i ułamków, Rozwiązywanie równań, Kalkulator graficzny, Macierze i statystyka, Kalkulator elektryczny (Ohm), Kalkulator farby i płytek, Kalkulator rozmiaru opon, Kalkulator spalania, Kalkulator średniej
 • Przeliczniki: Przelicznik jednostek, Przelicznik kalendarzy (hidżry, rumi), Liczby rzymskie, Przelicznik systemów liczbowych, Przelicznik miar kuchennych, Rozmiary ubrań i butów
@@ -7,6 +7,6 @@
 • Losowość i liczniki: Kości, moneta, liczba, Koło decyzji, Licznik, Licznik punktów, Losowanie osób i drużyn
 • Czujniki i pomiar: Kompas, Poziomica, Linijka i pomiar, Prędkościomierz GPS, Wysokościomierz, Barometr, Miernik drgań, Wykrywacz metali, Kątomierz
 • Aparat i światło: Latarka, Skaner QR i kodów, Lupa, Lustro, Luksomierz, Miernik odległości i wysokości, Próbnik kolorów z aparatu, Światło SOS i sytuacje awaryjne
-• Dźwięk i muzyka: Miernik dźwięku (dB), Metronom, Stroik, Czyszczenie głośnika, Generator tonów
-• Urządzenie: Menedżer plików, Bateria i urządzenie, Test ekranu i martwych pikseli, Test dotyku i przycisków, Czytnik tagów NFC, Informacje o sieci, Filtr ochrony oczu
+• Dźwięk i muzyka: Miernik dźwięku (dB), Metronom, Stroik, Czyszczenie głośnika, Generator tonów, Klaśnij i znajdź telefon
+• Urządzenie: Menedżer plików, Bateria i urządzenie, Test ekranu i martwych pikseli, Test dotyku i przycisków, Czytnik tagów NFC, Informacje o sieci, Filtr ochrony oczu, Pilot TV na podczerwień, Wyszukiwarka urządzeń Bluetooth, Rozpakowywacz archiwów
 • Tekst i kody: Generator QR, Alfabet Morse'a, Generator haseł

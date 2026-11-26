@@ -1,4 +1,4 @@
-Günlük işler için 64 sade, çevrimdışı araç.
+Günlük işler için 68 sade, çevrimdışı araç.
 
 • Hesaplama: Hesap Makinesi, Bilimsel Hesap Makinesi, Yüzde ve Kesir Hesaplayıcı, Denklem Çözücü, Grafik Çizen Hesap Makinesi, Matris ve İstatistik, Elektrik Hesaplayıcı (Ohm), Boya ve Fayans Hesaplayıcı, Lastik Ebatı Hesaplayıcı, Yakıt Tüketimi Hesaplayıcı, Not Ortalaması Hesaplayıcı
 • Çeviriciler: Birim Çevirici, Takvim Çevirici (Hicri, Rumi), Roma Rakamı Çevirici, Sayı Tabanı Çevirici, Mutfak Ölçü Çevirici, Beden ve Ayakkabı Numarası
@@ -7,6 +7,6 @@ Günlük işler için 64 sade, çevrimdışı araç.
 • Rastgele ve Sayaç: Zar, Yazı-Tura, Sayı, Karar Çarkı, Sayaç, Skor Tutucu, Rastgele İsim ve Takım Seçici
 • Sensörler ve Ölçüm: Pusula, Su Terazisi, Cetvel ve Ölçüm, GPS Hız Ölçer, Rakım Ölçer, Barometre, Titreşim Ölçer, Metal Dedektörü, Açı Ölçer
 • Kamera ve Işık: El Feneri, QR ve Barkod Okuyucu, Büyüteç, Ayna, Işık Ölçer (lüks), Mesafe ve Yükseklik Ölçer, Kameradan Renk Seçici, SOS Feneri ve Acil Durum
-• Ses ve Müzik: Ses Ölçer (dB), Metronom, Enstrüman Akort, Hoparlör Temizleme, Ton Üreteci
-• Cihaz: Dosya Yöneticisi, Pil ve Cihaz Bilgisi, Ekran ve Ölü Piksel Testi, Dokunmatik ve Tuş Testi, NFC Etiket Okuyucu, Ağ Bilgisi, Göz Koruma Filtresi
+• Ses ve Müzik: Ses Ölçer (dB), Metronom, Enstrüman Akort, Hoparlör Temizleme, Ton Üreteci, Alkışla Telefonu Bul
+• Cihaz: Dosya Yöneticisi, Pil ve Cihaz Bilgisi, Ekran ve Ölü Piksel Testi, Dokunmatik ve Tuş Testi, NFC Etiket Okuyucu, Ağ Bilgisi, Göz Koruma Filtresi, Kızılötesi TV Kumandası, Bluetooth Cihaz Bulucu, Arşiv Açıcı
 • Metin ve Kod: QR Oluşturucu, Mors Kodu, Şifre Üretici

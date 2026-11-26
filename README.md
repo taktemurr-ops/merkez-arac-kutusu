@@ -1,7 +1,7 @@
 # Araç Kutusu · Toolbox (merkez-arac-kutusu)
 
-Araç Kutusu ailesinin **merkez uygulaması**: 64 sade, çevrimdışı aracı tek uygulamada toplar.
-Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "64 Uygulama",
+Araç Kutusu ailesinin **merkez uygulaması**: 68 sade, çevrimdışı aracı tek uygulamada toplar.
+Görünüm oyun merkezlerinin onaylı tasarım dilini izler (koyu degrade zemin, "68 Uygulama",
 yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamalar · Favoriler · Profil.
 
 - Çatı: [studio-core](https://github.com/taktemurr-ops/studio-core) `lib/apps` · Motor: [arac-motoru](https://github.com/taktemurr-ops/arac-motoru)
@@ -75,3 +75,7 @@ yuvarlak arama, vurgu çerçeveli kutular). Alt gezinme: Ana Sayfa · Uygulamala
 | NFC Etiket Okuyucu | [uyg-nfc-okuyucu](https://github.com/taktemurr-ops/uyg-nfc-okuyucu) |
 | Ağ Bilgisi | [uyg-ag-bilgisi](https://github.com/taktemurr-ops/uyg-ag-bilgisi) |
 | Göz Koruma Filtresi | [uyg-goz-koruma-filtresi](https://github.com/taktemurr-ops/uyg-goz-koruma-filtresi) |
+| Alkışla Telefonu Bul | [uyg-alkisla-telefonu-bul](https://github.com/taktemurr-ops/uyg-alkisla-telefonu-bul) |
+| Kızılötesi TV Kumandası | [uyg-kizilotesi-kumanda](https://github.com/taktemurr-ops/uyg-kizilotesi-kumanda) |
+| Bluetooth Cihaz Bulucu | [uyg-bluetooth-bulucu](https://github.com/taktemurr-ops/uyg-bluetooth-bulucu) |
+| Arşiv Açıcı | [uyg-arsiv-acici](https://github.com/taktemurr-ops/uyg-arsiv-acici) |

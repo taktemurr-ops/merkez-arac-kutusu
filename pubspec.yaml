@@ -1,5 +1,5 @@
 name: merkez_arac_kutusu
-description: "Araç Kutusu merkez uygulaması: 64 çevrimdışı araç. Android, iOS ve Web."
+description: "Araç Kutusu merkez uygulaması: 68 çevrimdışı araç. Android, iOS ve Web."
 publish_to: none
 version: 1.0.0+1
 
@@ -18,7 +18,7 @@ dependencies:
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: 812f64c95632ef704569302dd29ec7e3215518ff
+      ref: a2dd4ffcaf0cf2e0ed191d58815a6ff74c03979f
   # Merkezdeki araçlar (her biri kendi deposunda)
   uyg_hesap_makinesi:
     git:
@@ -276,6 +276,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/uyg-goz-koruma-filtresi
       ref: ed03b7c928d7d2f4ed9a0836537e1bc773065ead
+  uyg_alkisla_telefonu_bul:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-alkisla-telefonu-bul
+      ref: 425867fb4c5b1ededaa4eb28cbb2473661ea966c
+  uyg_kizilotesi_kumanda:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-kizilotesi-kumanda
+      ref: a2a6fc3ded72037d3de4c5a0d695f022fa9e6004
+  uyg_bluetooth_bulucu:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-bluetooth-bulucu
+      ref: dbef7b2d1f6760a62a31563806a633c920eb92aa
+  uyg_arsiv_acici:
+    git:
+      url: https://github.com/taktemurr-ops/uyg-arsiv-acici
+      ref: f8c3f4f8bec8ce34e289ea2534f5613593215a65
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -293,7 +309,7 @@ dependency_overrides:
   arac_motoru:
     git:
       url: https://github.com/taktemurr-ops/arac-motoru
-      ref: 812f64c95632ef704569302dd29ec7e3215518ff
+      ref: a2dd4ffcaf0cf2e0ed191d58815a6ff74c03979f
 
 dev_dependencies:
   flutter_test:

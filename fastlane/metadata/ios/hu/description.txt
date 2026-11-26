@@ -1,4 +1,4 @@
-64 nyugodt, offline eszköz a mindennapokra.
+68 nyugodt, offline eszköz a mindennapokra.
 
 • Számológépek: Számológép, Tudományos számológép, Százalék- és törtszámító, Egyenletmegoldó, Grafikus számológép, Mátrix és statisztika, Elektromos számoló (Ohm), Festék- és csempeszámoló, Gumiméret-kalkulátor, Üzemanyag-fogyasztás, Átlagszámító
 • Átváltók: Mértékegység-váltó, Naptárváltó (hidzsra, rumi), Római számok, Számrendszer-váltó, Konyhai mértékváltó, Ruha- és cipőméretek
@@ -7,6 +7,6 @@
 • Véletlen és számlálók: Kocka, érme, szám, Döntéskerék, Számláló, Pontszámláló, Véletlen név- és csapatválasztó
 • Érzékelők és mérés: Iránytű, Vízmérték, Vonalzó és mérés, GPS sebességmérő, Magasságmérő, Barométer, Rezgésmérő, Fémdetektor, Szögmérő
 • Kamera és fény: Zseblámpa, QR- és vonalkódolvasó, Nagyító, Tükör, Fénymérő (lux), Távolság- és magasságmérő, Színválasztó kamerával, SOS fény és vészhelyzet
-• Hang és zene: Hangerőmérő (dB), Metronóm, Hangoló, Hangszórótisztító, Hanggenerátor
-• Eszköz: Fájlkezelő, Akku és eszközadatok, Kijelző- és pixelteszt, Érintés- és gombteszt, NFC-címke olvasó, Hálózati adatok, Szemkímélő szűrő
+• Hang és zene: Hangerőmérő (dB), Metronóm, Hangoló, Hangszórótisztító, Hanggenerátor, Tapsolj és megtalálod
+• Eszköz: Fájlkezelő, Akku és eszközadatok, Kijelző- és pixelteszt, Érintés- és gombteszt, NFC-címke olvasó, Hálózati adatok, Szemkímélő szűrő, Infravörös TV-távirányító, Bluetooth-eszközkereső, Archívumkicsomagoló
 • Szöveg és kódok: QR-készítő, Morzekód, Jelszógenerátor

@@ -1,4 +1,4 @@
-64 klidných offline nástrojů pro každý den.
+68 klidných offline nástrojů pro každý den.
 
 • Kalkulačky: Kalkulačka, Vědecká kalkulačka, Procenta a zlomky, Řešič rovnic, Grafická kalkulačka, Matice a statistika, Elektrokalkulačka (Ohm), Barva a dlažba, Kalkulačka pneumatik, Spotřeba paliva, Kalkulačka průměru
 • Převodníky: Převodník jednotek, Převodník kalendářů (hidžra, rumi), Římské číslice, Převodník číselných soustav, Převodník kuchyňských měr, Velikosti oblečení a bot
@@ -7,6 +7,6 @@
 • Náhoda a počítadla: Kostky, mince, číslo, Kolo rozhodnutí, Počítadlo, Počítání skóre, Náhodný výběr jmen a týmů
 • Senzory a měření: Kompas, Vodováha, Pravítko a měření, GPS tachometr, Výškoměr, Barometr, Vibrometr, Detektor kovů, Úhloměr
 • Kamera a světlo: Svítilna, Čtečka QR a čárových kódů, Lupa, Zrcadlo, Luxmetr, Měřič vzdálenosti a výšky, Výběr barvy kamerou, SOS světlo a nouze
-• Zvuk a hudba: Hlukoměr (dB), Metronom, Ladička, Čištění reproduktoru, Generátor tónů
-• Zařízení: Správce souborů, Baterie a zařízení, Test displeje a vadných pixelů, Test dotyku a tlačítek, Čtečka NFC štítků, Informace o síti, Filtr pro oči
+• Zvuk a hudba: Hlukoměr (dB), Metronom, Ladička, Čištění reproduktoru, Generátor tónů, Najdi telefon tlesknutím
+• Zařízení: Správce souborů, Baterie a zařízení, Test displeje a vadných pixelů, Test dotyku a tlačítek, Čtečka NFC štítků, Informace o síti, Filtr pro oči, IR ovladač televize, Hledač zařízení Bluetooth, Rozbalovač archivů
 • Text a kódy: Generátor QR, Morseova abeceda, Generátor hesel

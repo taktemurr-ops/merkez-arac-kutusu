@@ -1,4 +1,4 @@
-64 strumenti semplici e offline per ogni giorno.
+68 strumenti semplici e offline per ogni giorno.
 
 • Calcolatrici: Calcolatrice, Calcolatrice scientifica, Calcolatore percentuali e frazioni, Risolutore di equazioni, Calcolatrice grafica, Matrici e statistica, Calcolatore elettrico (Ohm), Calcolo vernice e piastrelle, Calcolatore misure pneumatici, Calcolo consumo carburante, Calcolo della media
 • Convertitori: Convertitore di unità, Convertitore di calendario (Egira, Rumi), Convertitore numeri romani, Convertitore di basi numeriche, Convertitore misure da cucina, Taglie di abiti e scarpe
@@ -7,6 +7,6 @@
 • Casuale e contatori: Dadi, moneta e numero, Ruota delle decisioni, Contapersone, Segnapunti, Estrazione nomi e squadre
 • Sensori e misure: Bussola, Livella, Righello e misura, Tachimetro GPS, Altimetro, Barometro, Vibrometro, Metal detector, Goniometro
 • Fotocamera e luce: Torcia, Lettore QR e codici a barre, Lente d'ingrandimento, Specchio, Luxmetro, Misura distanza e altezza, Selettore colore da fotocamera, Luce SOS ed emergenza
-• Suono e musica: Fonometro (dB), Metronomo, Accordatore, Pulizia altoparlante, Generatore di toni
-• Dispositivo: Gestore file, Batteria e dispositivo, Test schermo e pixel morti, Test touch e tasti, Lettore di tag NFC, Info rete, Filtro riposo occhi
+• Suono e musica: Fonometro (dB), Metronomo, Accordatore, Pulizia altoparlante, Generatore di toni, Batti le mani e trova il telefono
+• Dispositivo: Gestore file, Batteria e dispositivo, Test schermo e pixel morti, Test touch e tasti, Lettore di tag NFC, Info rete, Filtro riposo occhi, Telecomando TV a infrarossi, Trova dispositivi Bluetooth, Estrattore di archivi
 • Testo e codici: Generatore QR, Codice Morse, Generatore di password

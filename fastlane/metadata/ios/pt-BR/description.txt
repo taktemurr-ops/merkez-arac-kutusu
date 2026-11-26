@@ -1,4 +1,4 @@
-64 ferramentas simples e offline para o dia a dia.
+68 ferramentas simples e offline para o dia a dia.
 
 • Calculadoras: Calculadora, Calculadora científica, Calculadora de porcentagem e frações, Resolvedor de equações, Calculadora gráfica, Matrizes e estatística, Calculadora elétrica (Ohm), Calculadora de tinta e piso, Calculadora de pneus, Calculadora de consumo de combustível, Calculadora de média
 • Conversores: Conversor de unidades, Conversor de calendário (Hégira, Rumi), Conversor de números romanos, Conversor de bases numéricas, Conversor de medidas de cozinha, Tamanhos de roupa e calçado
@@ -7,6 +7,6 @@
 • Aleatório e contadores: Dados, moeda e número, Roda de decisões, Contador, Placar, Sorteio de nomes e equipes
 • Sensores e medição: Bússola, Nível de bolha, Régua e medição, Velocímetro GPS, Altímetro, Barômetro, Medidor de vibração, Detector de metais, Medidor de ângulo
 • Câmera e luz: Lanterna, Leitor de QR e código de barras, Lupa, Espelho, Luxímetro, Medidor de distância e altura, Seletor de cores pela câmera, Luz SOS e emergência
-• Som e música: Medidor de som (dB), Metrônomo, Afinador, Limpador de alto-falante, Gerador de tom
-• Dispositivo: Gerenciador de arquivos, Bateria e dispositivo, Teste de tela e pixels mortos, Teste de toque e botões, Leitor de etiquetas NFC, Informações de rede, Filtro de conforto visual
+• Som e música: Medidor de som (dB), Metrônomo, Afinador, Limpador de alto-falante, Gerador de tom, Bata palmas e ache o celular
+• Dispositivo: Gerenciador de arquivos, Bateria e dispositivo, Teste de tela e pixels mortos, Teste de toque e botões, Leitor de etiquetas NFC, Informações de rede, Filtro de conforto visual, Controle remoto de TV infravermelho, Localizador de dispositivos Bluetooth, Extrator de arquivos
 • Texto e códigos: Gerador de QR, Código Morse, Gerador de senhas

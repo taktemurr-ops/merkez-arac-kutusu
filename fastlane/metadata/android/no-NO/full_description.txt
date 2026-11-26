@@ -1,4 +1,4 @@
-64 rolige frakoblede verktøy for hverdagen.
+68 rolige frakoblede verktøy for hverdagen.
 
 • Kalkulatorer: Kalkulator, Vitenskapelig kalkulator, Prosent- og brøkkalkulator, Likningsløser, Grafkalkulator, Matriser og statistikk, Elektrisk kalkulator (Ohm), Maling- og flisekalkulator, Dekkstørrelseskalkulator, Drivstofforbruk, Karaktersnitt
 • Omregnere: Enhetsomregner, Kalenderomregner (Hijri, Rumi), Romertall, Tallsystemomregner, Kjøkkenmål-omregner, Klær- og skostørrelser
@@ -7,6 +7,6 @@
 • Tilfeldig og tellere: Terning, mynt, tall, Beslutningshjul, Teller, Poengteller, Tilfeldige navn og lag
 • Sensorer og måling: Kompass, Vater, Linjal og måling, GPS-speedometer, Høydemåler, Barometer, Vibrasjonsmåler, Metalldetektor, Vinkelmåler
 • Kamera og lys: Lommelykt, QR- og strekkodeleser, Forstørrelsesglass, Speil, Lysmåler (lux), Avstands- og høydemåler, Fargevelger med kamera, SOS-lys og nødsituasjon
-• Lyd og musikk: Lydmåler (dB), Metronom, Stemmeapparat, Høyttalerrens, Tonegenerator
-• Enhet: Filbehandler, Batteri og enhet, Skjerm- og pikseltest, Berørings- og knappetest, NFC-brikkeleser, Nettverksinfo, Øyekomfortfilter
+• Lyd og musikk: Lydmåler (dB), Metronom, Stemmeapparat, Høyttalerrens, Tonegenerator, Klapp og finn telefonen
+• Enhet: Filbehandler, Batteri og enhet, Skjerm- og pikseltest, Berørings- og knappetest, NFC-brikkeleser, Nettverksinfo, Øyekomfortfilter, IR-fjernkontroll for TV, Bluetooth-enhetsfinner, Arkivutpakker
 • Tekst og koder: QR-generator, Morsekode, Passordgenerator
