@@ -1,6 +1,6 @@
 # Gizlilik Politikası · Privacy Policy — Araç Kutusu / Toolbox
 
-_Son güncelleme / Last updated: 2026-11-26_
+_Son güncelleme / Last updated: 2026-11-28_
 
 ## Türkçe
 - Araçlar internet olmadan çalışır. Verileriniz (geçmiş, favoriler, ayarlar) yalnızca **cihazınızda** saklanır.
@@ -10,10 +10,10 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **Bluetooth** yalnızca Bluetooth Cihaz Bulucu açıkken yakındaki cihazların adını ve sinyal gücünü görmek için kullanılır; bağlantı kurulmaz, konum belirlenmez.
 - **Kızılötesi** kumanda yalnızca IR vericili Android telefonlarda, siz düğmeye bastığınızda TV koduna karşılık gelen ışığı yollar.
 - **Arşiv açıcı** seçtiğiniz dosyayı cihazda açar; dosyalar gönderilmez.
-- **Konum** yalnızca GPS hız ölçer ve rakım ölçer açıkken kullanılır; saklanmaz ve gönderilmez.
+- **Konum** yalnızca GPS hız ölçer ve rakım ölçer açıkken ve pusulada "Gerçek kuzey"i açtığınızda (manyetik sapmayı bir kez hesaplamak için) kullanılır; konum saklanmaz ve gönderilmez.
 - **Dosyalar:** Dosya yöneticisi tüm depolamaya erişim istemez; yalnızca sistem seçicisiyle sizin seçtiğiniz dosyaları açar.
 - **Bildirimler** yalnızca zamanlayıcı ve alarm için kullanılır.
-- **Döviz çevirici** internete bağlıyken Avrupa Merkez Bankası referans kurlarını frankfurter.dev üzerinden indirir; bu istekte kişisel veri gönderilmez.
+- **Döviz çevirici** internete bağlıyken Avrupa Merkez Bankası referans kurlarını frankfurter.dev üzerinden, bu listede olmayan para birimlerinin günlük kurlarını açık kaynaklı exchange-api derlemesinden (cdn.jsdelivr.net / currency-api.pages.dev) indirir; bu isteklerde kişisel veri gönderilmez.
 - Maaş, kıdem ve döviz hesapları bilgilendirme amaçlıdır; mali/hukuki danışmanlık değildir.
 - Reklamlar Google AdMob tarafından gösterilir. İlk açılışta bir kez seçim yaparsınız ("Kabul et" / "Yalnızca gerekli"); Avrupa gibi gereken bölgelerde Google'ın rıza formu ayrıca gösterilir. Seçiminizi Profil → Reklam ayarlarından değiştirebilirsiniz. Reklam bir işin ortasında asla gösterilmez.
 - Uygulama içi satın almalar Google Play / App Store üzerinden yapılır; ödeme bilgilerinizi görmeyiz.
@@ -28,10 +28,10 @@ _Son güncelleme / Last updated: 2026-11-26_
 - **Bluetooth** is used only in the Bluetooth Device Finder to see nearby devices' names and signal strength; nothing is connected and no location is determined.
 - The **infrared** remote works only on Android phones with an IR blaster and sends the TV code when you press a button.
 - The **archive extractor** opens the file you pick on the device; files are not uploaded.
-- **Location** is used only while the GPS speedometer or altimeter is open; it is not stored or sent.
+- **Location** is used only while the GPS speedometer or altimeter is open and, once, when you turn on "True north" in the compass (to compute magnetic declination); it is not stored or sent.
 - **Files:** the file manager never requests all-files access; it opens only the files you choose in the system picker.
 - **Notifications** are used only for the timer and alarms.
-- The **currency converter** downloads European Central Bank reference rates via frankfurter.dev when online; no personal data is sent.
+- The **currency converter** downloads European Central Bank reference rates via frankfurter.dev and, for currencies the ECB does not list, daily rates from the open-source exchange-api dataset (cdn.jsdelivr.net / currency-api.pages.dev) when online; no personal data is sent.
 - Salary, severance and currency results are for information only, not financial or legal advice.
 - Ads are served by Google AdMob. On first launch you choose once ("Accept" / "Essential only"); where required, Google's consent form is also shown. Change it any time in Profile → Ad settings. Ads never interrupt a task.
 - In-app purchases are processed by Google Play / App Store; we never see payment details.
